@@ -1,4 +1,4 @@
-[![My Annict watching animes](https://annict.penguincabinet.com/?user_id=usotsuki_elf&style=for-the-badge&type=watching_count)](https://annict.com/@usotsuki_elf) [![My Annict watched animes](https://annict.penguincabinet.com/?user_id=usotsuki_elf&style=for-the-badge&type=records_count)](https://annict.com/@usotsuki_elf)
+[![My Annict watching animes](https://annict.penguincabinet.com/?user_id=usotsuki_elf&style=for-the-badge&type=watching_count)](https://annict.com/@usotsuki_elf) [![My Annict watched animes](https://annict.penguincabinet.com/?user_id=usotsuki_elf&style=for-the-badge&type=watched_count)](https://annict.com/@usotsuki_elf)
 
 <picture>
   <source
